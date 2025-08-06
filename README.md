@@ -1,1 +1,0 @@
-This is a fractal tree simulation project that simulates fractal tree growth step by step with parameters that can be changed or chosen by the user. It allows the user to see and change tree parameters in real time, even during simulation. 
